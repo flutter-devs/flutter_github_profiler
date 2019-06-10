@@ -3,7 +3,7 @@
 A sample application to show GitHub profiles. 
 
 # Demo
-<img height="480px" width="250px" src="https://github.com/flutter-devs/flutter_github_profiler/blob/master/screens/demo.gif">
+<img height="480px" width="270px" src="https://github.com/flutter-devs/flutter_github_profiler/blob/master/screens/demo.gif">
 
 
 
