@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
-import 'package:github_flutter_ui/HomePage.dart';
-import 'package:github_flutter_ui/login_screen.dart';
+import 'package:github_flutter_ui/ui/HomePage.dart';
+import 'package:github_flutter_ui/ui/login_screen.dart';
 import 'package:github_flutter_ui/splash/splash_screens.dart';
 import 'package:github_flutter_ui/Constant/Constant.dart';
 
